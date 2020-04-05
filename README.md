@@ -1,2 +1,2 @@
 # ue4-http
-Building this library while learning HTTP in Unreal Engine 4.
+Unreal C++ Library for working with REST APIs.
